@@ -19,9 +19,9 @@ public class Valentin1DAM {
         System.out.println("Inicio de proyecto");
          System.out.println("Inicio de proyecto");
          System.out.println("Version del dia 20 de marzo de 2017");
-         System.out.println("Version del dia 30 de marzo de 2017");
-          System.out.println("Piton");
-         
+         System.out.println("Version del dia 31 de marzo de 2017");
+         System.out.println("Hola caracola");
+         System.out.println("Piton");
     }
     
 }
