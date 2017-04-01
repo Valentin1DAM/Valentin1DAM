@@ -17,15 +17,7 @@ public class Valentin1DAM {
      */
     public static void main(String[] args) {
         System.out.println("Inicio de proyecto");
-        System.out.println("Inicio de proyecto");
-         System.out.println("Inicio de proyecto");
-         System.out.println("Version del dia 20 de marzo de 2017");
-         System.out.println("Version del dia 31 de marzo de 2017");
-         System.out.println("Hola caracola");
-         System.out.println("Piton");
-         System.out.println("Ya estamos en abril");
-         System.out.println("Dia 2 de abril");
-         System.out.println("Apunto de empezar la Semana Santa");
+      
     }
     
 }
