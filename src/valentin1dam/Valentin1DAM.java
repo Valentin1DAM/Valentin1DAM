@@ -18,6 +18,7 @@ public class Valentin1DAM {
     public static void main(String[] args) {
         System.out.println("Inicio de proyecto");
         System.out.println("Abril");
+        System.out.println("Domingo");
       
     }
     
