@@ -20,7 +20,7 @@ public class Valentin1DAM {
         System.out.println("Inicio de proyecto");
         System.out.println("Abril");
         System.out.println("Domingo");
-        System.out.println("Recuperacion");
+        
       
     }
     
